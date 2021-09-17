@@ -1,5 +1,14 @@
 class OrdersController < ApplicationController
 
+  #below is to limit access for user authentification
+  # before_filter :authorize
+
+  # def cool
+  # end
+
+  # def free
+  # end
+
   def show
     @order = Order.find(params[:id])
   end
