@@ -4,7 +4,7 @@ A mini e-commerce application built with Rails 4.2.
 
 ## Final Product
 
-!["recording of site"](https://github.com/woodpeckershop/tweeter/blob/master/docs/demo-index.gif?raw=true)
+!["recording of site"](https://github.com/woodpeckershop/jungle-rails/blob/master/docs/Junglebook.gif?raw=true)
 
 ## Additional Steps for Apple M1 Machines
 
